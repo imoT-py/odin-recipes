@@ -53,3 +53,17 @@ ol {
     color: rgb(235, 175, 10);
     font-style: oblique;
 }
+
+.pic-left {
+    text-align: right;
+}
+
+#rice {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.h2_title {
+    text-decoration: line-through;
+    color: brown;
+}

@@ -9,9 +9,41 @@ h1 {
     color: red;
 }
 
+h2 {
+    font-size: 26px;
+    color: lightgreen;
+    font-weight: 100;
+}
+
 .link {
     font-size: 20px;
     color: blue;
     text-transform: uppercase;
     line-height: 1.5;
+}
+
+.pic {
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+}
+
+ul, ol {
+    font-size: 18px;
+}
+
+#food {
+    font-weight: 600;
+    color: blueviolet;
+}
+
+.title {
+    font-style: italic;
+    color: blue;
+}
+
+ol {
+    font-style: italic;
 }
